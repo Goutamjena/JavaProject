@@ -3,4 +3,8 @@
   <groupId>javatpoint</groupId>
   <artifactId>helloMaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<build>
+	<finalName>mavenproject</finalName>
+</build>
+  <name>Maven_Project</name>
 </project>
